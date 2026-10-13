@@ -30,40 +30,38 @@ As an alternative, you can use a company called Casa and their industry-leading 
 **Mobile Wallets**
 For iOS and Android
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid) https://blockstream.com/green
-* [Breez Wallet](https://breez.technology/) (Lightning non-custodial) https://breez.technology
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial) https://bluewallet.io
 
 If you want to use both - Bitcoin and micro-payments on the Lightning Network - in one wallet:
 * [Muun Wallet](https://muun.com/) (Bitcoin and Lightning non-custodial) https://muun.com
-* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial) https://bluewallet.io
 * [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users) https://electrum.org
 
 **Desktop Wallets**
 Because of the security risks stated above, I don't use software wallets on my computer, except for when I use them in combination with hardware wallets. For this, I use Sparrow or the hardware manufacturer's native software.
 
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid) https://blockstream.com/green
-* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial) https://bluewallet.io
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial) https://bluewallet.io
 * [Sparrow](https://sparrowwallet.com/) (Bitcoin non-custodial) https://sparrowwallet.com
 * [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users) https://electrum.org
 
---NOTE: Update Jan 2026 Start--
+--NOTE: Update Oct 2026 Start--
 
 ### Cold Storage
 **Hardware Devices**
 
 Hardware wallet devices securely manage your coins, Bitcoin addresses, and private keys, keeping them offline. Even if your device is compromised by malware or has been hacked, your funds are safe and you can send and receive payments. You need to manually confirm transactions on these external devices and this ensures that no intruder on your computer can take over your funds.
 
-The following manufacturers and devices have established themselves in the hardware wallet market in recent years. SatoshiLabs from Prague has been producing hardware wallets since 2014. Swiss Shift Crypto AG has been on the market with the BitBox since 2015. Canadian company Coinkite has been manufacturing the Coldcard since 2018 and Canada/USA based Blockstream's Jade is out since 2021.
+The following manufacturers and devices have established themselves in the hardware wallet market in recent years. SatoshiLabs from Prague has been producing hardware wallets since 2014. Swiss Shift Crypto AG has been on the market with the BitBox since 2015. Canada/USA based Blockstream's Jade is out since 2021. Canadian company Coinkite has been manufacturing the Coldcard since 2018, but lost it's trust in 2026 as a bug in the software let thieves steal funds from users.
 
-I have tested and used all of the listed devices. The BitBox02 is my favorite. It looks like a simple USB device and offers many security features. The advantage of Trezor models (3, 5, 7) is their option to split the wallet backup into multiple 20-word shares, for enhanced security and resilience. The Coldcard is for tech-savvy users and the Jade not only secures Bitcoin, but also Liquid funds (Bitcoin's sidechain with improved privacy). 
+I have tested and used all of the listed devices. The BitBox02 is my favorite. It looks like a simple USB device and offers many security features. The advantage of Trezor models (3, 5, 7) is their option to split the wallet backup into multiple 20-word shares, for enhanced security and resilience. The Jade not only secures Bitcoin, but also Liquid funds (Bitcoin's sidechain with improved privacy). 
 
-I do not recommend Ledger devices. The company has demonstrated a lack of trustworthiness over the years. They have [experienced several data leaks](https://cryptoslate.com/new-ledger-breach-didnt-steal-your-crypto-but-it-exposed-the-one-thing-that-leads-criminals-to-your-door/), exposing thousands of customers' personal details.
+I do not recommend Ledger devices. The company has demonstrated a lack of trustworthiness over the years. They have [experienced several data leaks](https://cryptoslate.com/new-ledger-breach-didnt-steal-your-crypto-but-it-exposed-the-one-thing-that-leads-criminals-to-your-door/), exposing thousands of customers' personal details. In October 2026 manipulated devices where sold by "authorized resellers" in Asia, Germany and potentially other European countries.
 
 - [BitBox02 bitcoin-only edition](https://anita.link/bitbox02) (my readers get 5% off, use code: ANITA) - SHIFT Crypto AG [https://anita.link/bitbox02](https://anita.link/bitbox02)
-- [Coldcard](https://anita.link/coldcard) - Coinkite [https://anita.link/coldcard](https://anita.link/coldcard)
 - [Jade](https://blockstream.com/jade/) - Blockstream [https://blockstream.com/jade/](https://blockstream.com/jade/)
 - [Trezor](https://anita.link/trezor) - SatoshiLabs [https://anita.link/trezor](https://anita.link/trezor)
 
-Always buy hardware wallets directly from the manufacturer's website, their authorized Amazon store, or a trusted dealer. Never buy a hardware wallet from strangers on eBay, Amazon or second-hand. Verify that the device is sealed as described on the manufacturer's website. Most recommended devices have tamper-evident packaging to prevent tampering. Note that no manufacturer ships devices with pre-generated seeds; if you receive one, it's likely a scam and not safe to use.
+Always buy hardware wallets directly from the manufacturer's website, but do not use your home address for shipping and avoid giving away your phone number! Best is to visit a Bitcoin conference in your vicinity to purchase a device for cash at a manufacturers booth. Never buy a hardware wallet on eBay, Amazon or second-hand. Verify that the device is sealed as described on the manufacturer's website. Most recommended devices have tamper-evident packaging to prevent tampering. Note that no manufacturer ships devices with pre-generated seeds; if you receive one, it's likely a scam and not safe to use.
 
 ## Privacy Recommendations
 
@@ -75,7 +73,7 @@ When purchasing online, your payment data will be associated with the supplier. 
 
 In addition to the device, the vendors provide wallet software to manage your coins on your computer or mobile. For privacy reasons, some users prefer to use the vendor's wallet only for initial setup and maintenance, such as recording their seed phrase (your wallet's recovery words) and updating firmware, and then use a more secure wallet like Sparrow or Electrum to manage their transactions. 
 
---NOTE: Update Jan 2026 End--
+--NOTE: Update Oct 2026 End--
 
 **Offline wallets**
 
